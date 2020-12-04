@@ -11,12 +11,15 @@ const app = express();
 
 const shopRoutes = require("./routes/shop");
 
-app.use(shopRoutes);
 
 app.use(cors());
 app.use(bodyParser.urlencoded({ extended: false }));
+
+app.use(shopRoutes);
+
 app.use('/.netlify/functions/app', router);  // path must route to lambda
 app.use('/', (req, res) => res.sendFile(path.join(__dirname, '/index.html')));
+
 
 module.exports = app;
 module.exports.handler = serverless(app);
