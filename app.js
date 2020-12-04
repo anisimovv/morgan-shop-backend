@@ -3,6 +3,7 @@ const path = require("path");
 const express = require("express");
 const bodyParser = require("body-parser");
 const cors = require("cors");
+const serverless = require("serverless-http")
 
 const app = express();
 
@@ -13,4 +14,5 @@ app.use(bodyParser.urlencoded({ extended: false }));
 
 app.use(shopRoutes);
 
-app.listen(8000);
+module.exports = app;
+module.exports.handler = serverless(app);
