@@ -11,6 +11,8 @@ const shopRoutes = require("./routes/shop");
 
 app.use(cors());
 app.use(bodyParser.urlencoded({ extended: false }));
+app.use('/.netlify/functions/app', router);  // path must route to lambda
+
 
 app.use(shopRoutes);
 
