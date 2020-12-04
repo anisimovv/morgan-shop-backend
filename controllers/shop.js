@@ -1,12 +1,16 @@
 const Product = require("../models/product");
-
-const path = require("path");
+const Categories = require("../models/categories");
 
 exports.getProducts = (req, res) => {
-  setTimeout((() => {
-    Product.fetchAll((products) => {
-      res.json(products);
-      res.end();
-    });
-  }), 2000)
+  Product.fetchAll((products) => {
+    res.json(products);
+    res.end();
+  });
+};
+
+exports.getCategories = (req, res) => {
+  Categories.fetchAll((products) => {
+    res.json(products);
+    res.end();
+  });
 };
