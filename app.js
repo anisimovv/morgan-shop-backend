@@ -16,4 +16,4 @@ app.use(cors());
 app.use(bodyParser.json());
 app.use(shopRoutes);
 
-app.listen(8000);
+app.listen(process.env.PORT);
