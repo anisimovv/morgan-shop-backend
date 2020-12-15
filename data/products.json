@@ -6,7 +6,7 @@
       "name": "Sunset",
       "alias": "sunset",
       "price": "480",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/ceilings/sunset.jpg",
       "timeStamp": "2018-06-10T21:22:04.100Z"
     },
     {
@@ -15,7 +15,7 @@
       "name": "28 Cluster",
       "alias": "28-cluster",
       "price": "500",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/ceilings/28-cluster.jpg",
       "timeStamp": "2014-04-28T07:46:02.127Z"
     },
     {
@@ -24,7 +24,7 @@
       "name": "Dear Ingo",
       "alias": "dear-ingo",
       "price": "350",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/ceilings/dear-indigo.jpg",
       "timeStamp": "2012-09-15T12:49:10.659Z"
     },
     {
@@ -33,7 +33,7 @@
       "name": "NR2",
       "alias": "nr2",
       "price": "180",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/ceilings/nr2.jpg",
       "timeStamp": "2013-06-26T16:55:10.904Z"
     },
     {
@@ -42,7 +42,7 @@
       "name": "28 Armature",
       "alias": "28-armature",
       "price": "480",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/ceilings/28-armature.jpg",
       "timeStamp": "2014-05-11T09:51:00.416Z"
     },
     {
@@ -51,7 +51,7 @@
       "name": "G1",
       "alias": "g1",
       "price": "200",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/ceilings/g1.jpg",
       "timeStamp": "2020-10-12T09:22:22.137Z"
     },
     {
@@ -60,7 +60,7 @@
       "name": "Raimond",
       "alias": "raimond",
       "price": "275",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/ceilings/raimond.jpg",
       "timeStamp": "2012-08-17T10:06:20.041Z"
     },
     {
@@ -69,7 +69,7 @@
       "name": "Softspot",
       "alias": "softspot",
       "price": "150",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/ceilings/softspot.jpg",
       "timeStamp": "2013-01-04T07:48:50.988Z"
     },
     {
@@ -78,7 +78,7 @@
       "name": "Tinkering",
       "alias": "tinkering",
       "price": "480",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/ceilings/tinkering.jpg",
       "timeStamp": "2017-07-22T06:01:22.735Z"
     },
     {
@@ -87,7 +87,7 @@
       "name": "Hemel",
       "alias": "hemel",
       "price": "500",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/ceilings/hemel.jpg",
       "timeStamp": "2019-11-17T10:29:59.536Z"
     },
     {
@@ -96,7 +96,7 @@
       "name": "Heracleum",
       "alias": "heracleum",
       "price": "350",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/ceilings/heracleum.jpg",
       "timeStamp": "2016-03-14T13:44:32.892Z"
     },
     {
@@ -105,7 +105,7 @@
       "name": "Trevi",
       "alias": "trevi",
       "price": "180",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/ceilings/trevi.jpg",
       "timeStamp": "2020-08-28T22:00:55.781Z"
     },
     {
@@ -114,7 +114,7 @@
       "name": "Double Shade",
       "alias": "double-shade",
       "price": "325",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/floor-lamps/double-shade.jpg",
       "timeStamp": "2019-02-07T13:31:01.298Z"
     },
     {
@@ -123,7 +123,7 @@
       "name": "T-lamp",
       "alias": "t-lamp",
       "price": "205",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/floor-lamps/t-lamp.jpg",
       "timeStamp": "2019-05-20T18:54:36.624Z"
     },
     {
@@ -132,7 +132,7 @@
       "name": "G30",
       "alias": "g30",
       "price": "350",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/floor-lamps/g30.jpg",
       "timeStamp": "2014-12-05T08:01:37.014Z"
     },
     {
@@ -141,7 +141,7 @@
       "name": "Lektor Floor",
       "alias": "lektor-floor",
       "price": "150",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/floor-lamps/lector-floor.jpg",
       "timeStamp": "2014-09-12T03:27:15.178Z"
     },
     {
@@ -150,7 +150,7 @@
       "name": "Nr2 Floor",
       "alias": "nr2-floor",
       "price": "355",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/floor-lamps/nr2-floor.jpg",
       "timeStamp": "2014-11-12T04:57:26.327Z"
     },
     {
@@ -159,7 +159,7 @@
       "name": "Miller Floor",
       "alias": "miller-floor",
       "price": "275",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/floor-lamps/miller-floor.jpg",
       "timeStamp": "2017-04-19T17:28:10.050Z"
     },
     {
@@ -168,7 +168,7 @@
       "name": "Filigree",
       "alias": "filigree",
       "price": "520",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/floor-lamps/filligree.jpg",
       "timeStamp": "2014-03-14T13:15:58.615Z"
     },
     {
@@ -177,7 +177,7 @@
       "name": "Prop Light Floor",
       "alias": "prop-light-floor",
       "price": "550",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/floor-lamps/prop-light-floor.jpg",
       "timeStamp": "2014-08-09T21:04:12.248Z"
     },
     {
@@ -186,7 +186,7 @@
       "name": "Borgo",
       "alias": "borgo",
       "price": "95",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/exterior-ceiling/borgo.jpg",
       "timeStamp": "2017-10-23T23:57:08.206Z"
     },
     {
@@ -195,7 +195,7 @@
       "name": "Montur",
       "alias": "montur",
       "price": "105",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/exterior-ceiling/montur.jpg",
       "timeStamp": "2018-08-22T11:31:57.000Z"
     },
     {
@@ -204,7 +204,7 @@
       "name": "Kix W",
       "alias": "kix-w",
       "price": "70",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/exterior-ceiling/kix-w.jpg",
       "timeStamp": "2015-01-15T14:38:25.785Z"
     },
     {
@@ -213,7 +213,7 @@
       "name": "Logical L",
       "alias": "logical-l",
       "price": "75",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/exterior-ceiling/logic-l.jpg",
       "timeStamp": "2014-02-05T16:53:33.438Z"
     },
     {
@@ -222,7 +222,7 @@
       "name": "Heli X",
       "alias": "heli-x",
       "price": "80",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/exterior-ceiling/heli-x.jpg",
       "timeStamp": "2012-05-20T14:35:30.185Z"
     },
     {
@@ -231,7 +231,7 @@
       "name": "Loggia",
       "alias": "loggia",
       "price": "85",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/exterior-ceiling/loggia.jpg",
       "timeStamp": "2014-05-16T00:43:39.087Z"
     },
     {
@@ -240,7 +240,7 @@
       "name": "Frax",
       "alias": "frax",
       "price": "50",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/exterior-ceiling/frax.jpg",
       "timeStamp": "2018-04-12T21:09:05.438Z"
     },
     {
@@ -249,7 +249,7 @@
       "name": "Logic S",
       "alias": "logic-s",
       "price": "60",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/exterior-ceiling/logic-s.jpg",
       "timeStamp": "2017-09-02T05:57:30.936Z"
     },
     {
@@ -258,7 +258,7 @@
       "name": "Lanterne",
       "alias": "lanterne",
       "price": "110",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/exterior-ceiling/lanterne.jpg",
       "timeStamp": "2018-11-27T14:55:02.422Z"
     },
     {
@@ -267,7 +267,7 @@
       "name": "Carree X Led",
       "alias": "carree-x-led",
       "price": "60",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/exterior-ceiling/caree-x.jpg",
       "timeStamp": "2013-10-01T17:31:06.474Z"
     },
     {
@@ -276,7 +276,7 @@
       "name": "Montur",
       "alias": "montur",
       "price": "75",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/exterior-ceiling/montur.jpg",
       "timeStamp": "2019-07-26T23:14:25.898Z"
     },
     {
@@ -285,7 +285,7 @@
       "name": "B-liner B 65ip",
       "alias": "b-liner-b-65ip",
       "price": "105",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/exterior-ceiling/b-linker.jpg",
       "timeStamp": "2013-04-08T12:51:02.864Z"
     },
     {
@@ -294,7 +294,7 @@
       "name": "Tribe Table",
       "alias": "tribe-table",
       "price": "90",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/table-lamps/tribe-table.jpg",
       "timeStamp": "2013-06-06T13:50:14.921Z"
     },
     {
@@ -303,7 +303,7 @@
       "name": "Orbita",
       "alias": "orbita",
       "price": "120",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/table-lamps/orbita.jpg",
       "timeStamp": "2014-05-22T14:57:12.025Z"
     },
     {
@@ -312,7 +312,7 @@
       "name": "Rabbit Lamp",
       "alias": "rabbit-lamp",
       "price": "210",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/table-lamps/rabit-lamp.jpg",
       "timeStamp": "2016-02-07T12:58:17.353Z"
     },
     {
@@ -321,7 +321,7 @@
       "name": "Miller Table",
       "alias": "miller-table",
       "price": "110",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/table-lamps/miller-table.jpg",
       "timeStamp": "2016-08-07T19:04:56.509Z"
     },
     {
@@ -330,7 +330,7 @@
       "name": "Bloom",
       "alias": "bloom",
       "price": "190",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/table-lamps/bloom.jpg",
       "timeStamp": "2020-07-04T20:25:34.187Z"
     },
     {
@@ -339,7 +339,7 @@
       "name": "Jb One",
       "alias": "jb-one",
       "price": "110",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/table-lamps/jb-one.jpg",
       "timeStamp": "2017-05-03T21:30:48.777Z"
     },
     {
@@ -348,7 +348,7 @@
       "name": "G24",
       "alias": "g24",
       "price": "125",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/table-lamps/g24.jpg",
       "timeStamp": "2020-02-12T06:01:55.086Z"
     },
     {
@@ -357,7 +357,7 @@
       "name": "Quadra New Ta",
       "alias": "quadra-new-ta",
       "price": "105",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/table-lamps/quadra-new.jpg",
       "timeStamp": "2020-09-13T01:39:37.370Z"
     },
     {
@@ -366,7 +366,7 @@
       "name": "Lector Table",
       "alias": "lector-table",
       "price": "120",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/table-lamps/lector-table.jpg",
       "timeStamp": "2012-07-20T22:07:25.673Z"
     },
     {
@@ -375,7 +375,7 @@
       "name": "G60",
       "alias": "g-60",
       "price": "150",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/table-lamps/g60.jpg",
       "timeStamp": "2017-07-18T17:02:30.257Z"
     },
     {
@@ -384,7 +384,7 @@
       "name": "Joey Spot",
       "alias": "joey-spot",
       "price": "130",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/table-lamps/joey-spot.jpg",
       "timeStamp": "2017-10-03T05:44:18.474Z"
     },
     {
@@ -393,7 +393,7 @@
       "name": "Imbuto",
       "alias": "imbuto",
       "price": "95",
-      "image": "https://via.placeholder.com/400.png?text=Temporary%20+%20image",
+      "image": "/img/table-lamps/iumbuto.jpg",
       "timeStamp": "2014-12-21T19:01:04.380Z"
     }
   ]
